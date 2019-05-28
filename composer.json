@@ -3,7 +3,7 @@
   "type": "roundcube-plugin",
   "description": "API CLIENT",
   "license": "MIT",
-  "version": "0.1",
+  "version": "0.5",
   "authors": [
     {
       "name": "Tsubasa mochida",
